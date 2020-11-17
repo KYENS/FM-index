@@ -1,0 +1,34 @@
+target_L: G
+updated range_min: 118799, updated range_max: 131677
+target_L: T
+updated range_min: 201435, updated range_max: 204562
+target_L: A
+updated range_min: 51006, updated range_max: 51551
+target_L: G
+updated range_min: 130208, updated range_max: 130364
+target_L: A
+updated range_min: 34280, updated range_max: 34352
+target_L: A
+updated range_min: 12423, updated range_max: 12469
+target_L: G
+updated range_min: 121048, updated range_max: 121048
+target_L: T
+updated range_min: 201888, updated range_max: 201888
+target_L: A
+updated range_min: 51095, updated range_max: 51095
+target_L: G
+updated range_min: 130223, updated range_max: 130222
+target_L: C
+updated range_min: 93918, updated range_max: 93917
+target_L: A
+updated range_min: 25721, updated range_max: 25720
+target_L: T
+updated range_min: 183460, updated range_max: 183459
+target_L: T
+updated range_min: 219915, updated range_max: 219914
+target_L: T
+updated range_min: 228514, updated range_max: 228513
+target_L: T
+updated range_min: 231259, updated range_max: 231258
+position of the query:	
+TOTAL FOUND: 0 
